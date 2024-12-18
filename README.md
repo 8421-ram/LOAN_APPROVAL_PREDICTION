@@ -1,5 +1,7 @@
 # Loan Approval Prediction
 
+![Loan Approval Prediction](https://res.cloudinary.com/dgwuwwqom/image/upload/v1734500352/Github/Loan%20Approval.jpg)
+
 ## Overview
 The Loan Approval Prediction project aims to predict whether a loan application will be approved or rejected based on historical data. Using machine learning models, this project builds a predictive model that analyzes various features such as applicant details, loan amount, credit score, and other financial indicators to determine the likelihood of loan approval.
 
